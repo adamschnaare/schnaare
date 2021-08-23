@@ -12,5 +12,13 @@
     "adam schnaare",
     "adam",
     "schnaare"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "adamschnaare/schnaare",
+  "author": {
+    "name": "Adam Schnaare",
+    "email": "adam.schnaare@spinuptech.com",
+    "url": "https://www.linkedin.com/in/adamschnaare/"
+  }
 }
