@@ -1,25 +1,29 @@
 {
-  "name": "schnaare",
-  "version": "2.2.0",
-  "description": "Get to know Adam via `npx schnaare`",
-  "bin": {
-    "schnaare": "index.js"
-  },
-  "dependencies": {
-    "chalk": "^4.1.2",
-    "cli-welcome": "^2.2.2"
-  },
-  "keywords": [
-    "adam schnaare",
-    "adam",
-    "schnaare"
-  ],
-  "license": "MIT",
-  "main": "index.js",
-  "repository": "adamschnaare/schnaare",
-  "author": {
-    "name": "Adam Schnaare",
-    "email": "adam.schnaare@spinuptech.com",
-    "url": "https://www.linkedin.com/in/adamschnaare/"
-  }
+    "name": "schnaare",
+    "version": "2.2.0",
+    "description": "Get to know Adam via `npx schnaare`",
+    "bin": {
+        "schnaare": "index.js"
+    },
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "cli-alert": "^1.0.3",
+        "cli-check-node": "^1.3.4",
+        "cli-welcome": "^2.2.2",
+        "log-symbols": "^5.0.0"
+    },
+    "keywords": [
+        "adam schnaare",
+        "adam",
+        "schnaare"
+    ],
+    "type": "module",
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "adamschnaare/schnaare",
+    "author": {
+        "name": "Adam Schnaare",
+        "email": "adam.schnaare@spinuptech.com",
+        "url": "https://www.linkedin.com/in/adamschnaare/"
+    }
 }
